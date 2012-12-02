@@ -1,0 +1,66 @@
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+
+## java specific
+*.class
+
+
+# package files
+*.jar
+*.war
+*.ear
+
+
+# Eclipse 
+*.pydevproject
+.project
+.metadata
+*/bin/**
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+
+# External tool builders
+.externalToolBuilders/
+
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+
+# CDT-specific
+.cproject
+
+
+# PDT-specific
+.buildpath
+
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+
+# MAVEN target
+target/
+
